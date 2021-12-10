@@ -12,3 +12,6 @@
 
 # database
 /data
+
+# found anomalies are videos so gitignore them
+/found-anomalies
